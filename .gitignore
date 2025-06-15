@@ -55,4 +55,7 @@ coverage/
 .node_repl_history
 .npm
 .eslintcache
-.stylelintcache 
+.stylelintcache
+
+# 示例文件夹
+examples/ 
